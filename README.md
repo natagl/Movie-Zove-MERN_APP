@@ -11,4 +11,5 @@
 4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
 5. Type " npm install --save-dev nodemon " inside of server directory
 6. To run app " npm run dev "
+7. Get Movie App API on https://www.themoviedb.org/
 ```
