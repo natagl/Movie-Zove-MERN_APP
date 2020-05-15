@@ -5,6 +5,7 @@ import { API_URL, API_KEY, IMAGE_BASE_URL, IMAGE_SIZE, POSTER_SIZE } from '../..
 import MainImage from './Section/MainImage';
 import GridCard from './Section/GridCards';
 
+
 const { Title } = Typography;
 
 
