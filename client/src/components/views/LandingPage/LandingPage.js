@@ -10,6 +10,7 @@ const { Title } = Typography;
 
 
 function LandingPage() {
+
     const buttonRef = useRef(null);
 
     const [Movies, setMovies] = useState([])
@@ -26,7 +27,7 @@ function LandingPage() {
         window.addEventListener("scroll", handleScroll);
     }, [])
 
-
+// end pointa
     const fetchMovies = (endpoint) => {
 
         fetch(endpoint)
