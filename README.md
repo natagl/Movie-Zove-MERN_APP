@@ -13,4 +13,4 @@
 6. To run app " npm run dev "
 7. Get Movie App API on https://www.themoviedb.org/
 ```
-![read img](readMe.png)
+![read img](readMe.jpg)
