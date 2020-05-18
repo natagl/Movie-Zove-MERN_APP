@@ -14,3 +14,5 @@
 7. Get Movie App API on https://www.themoviedb.org/
 ```
 ![read img](readMe.jpg)
+
+![read img](mainPage.jpg)
