@@ -13,6 +13,8 @@
 6. To run app " npm run dev "
 7. Get Movie App API on https://www.themoviedb.org/
 ```
+#### Main Page Banner
 ![read img](readMe.jpg)
 
+#### Movies Cards
 ![read img](mainPage.jpg)
